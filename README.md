@@ -1,4 +1,6 @@
-# ColorGame
-RGB Color Game!
+## ColorGame - RGB
 
-Play this game to improve your RGB skills!
+A Color-Game Website to improve your RGB color skills
+
+#### Live Demo https://colorgame-rgb.netlify.app/
+
